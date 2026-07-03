@@ -10,9 +10,7 @@ contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: description: >
   Welcome to the Chase Native Bees Lab in the Department of Biology at Villanova University! We study all things related to wild native bees, with the broad aim of teasing apart their intricate biologies and ecologies in ways that guide their conservation, as well as restoration and management. Our work centers on bee population dynamics, movement and dispersal, nesting, and natural history (including pollination biology studies on plants bees love!). We also conduct broad community-level work using rigorous statistical and geospatial analysis. Stay tuned as we get going in fall 2026!
-  # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
+# the ">" symbol means to ignore newlines until the next field
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
