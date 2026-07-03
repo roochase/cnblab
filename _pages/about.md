@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: Chase Native Bees Lab
 permalink: /
 subtitle: Department of Biology, Villanova University
