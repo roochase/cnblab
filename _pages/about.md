@@ -6,7 +6,7 @@ subtitle: Department of Biology, Villanova University
 
 profile:
   align: right
-  image: laablogov3.png
+  image: laablogov3Transparent.png
   image_circular: false # crops the image to make it circular
   more_info:
 
