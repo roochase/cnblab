@@ -1,0 +1,9 @@
+---
+title: Teaching
+format: html
+---
+
+## Courses
+
+-   Entomology — Fall 2026
+-   Evolutionary Ecology — Spring 2027

@@ -1,0 +1,19 @@
+---
+title: "Research"
+format: html
+---
+
+---
+title: "Research"
+---
+
+## Projects
+
+-   Bee population dynamics
+    -   Understanding the population dynamics of solitary bee species remains a considerable challenge for the field. Basic questions such as "how big is a population" or "how does population size fluctuate from year to year" are unknown yet critical for conservation and conducting research. We study these questions along with an emphasis on movement ecology. We investigate the biology of dispersal and foraging across populations and communities and explore which factors affect movement and why.
+-   Solitary bee nesting studies
+    -   Research emphasizes floral resource availability to conserve bees, yet we know so little about nesting requirements of solitary bee species, especially our ground-nesting species that encompass roughly 80% of all bee species.
+
+        We study all things bee nesting, from nest architecture to phenology and nesting as it relates to dispersal and movement. We are also in the process of getting our environmental chamber up and running in the lab and hope to get some bee nesting action in there. Stay tuned!
+-   Effectiveness of bee monitoring
+    -   We are interested in exploring different ways to monitor bee communities. Whether this is using non-lethal methods such as mark-release-recapture, targeted surveys, geospatial data, or methods in-between, we want to determine how we can collect data and reduce lethal take.

@@ -1,0 +1,8 @@
+---
+title: Opportunities
+format: html
+---
+
+## Join the Lab
+
+Please reach out if you're interested in joining the lab!

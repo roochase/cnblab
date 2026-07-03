@@ -1,0 +1,8 @@
+---
+title: Lab news
+format: html
+---
+
+## Minnesota Native Bees feature
+
+-   Minnesota Native Bees covered our work on the nesting and foraging biology of Colletes andrewsi! Read more here: <https://www.beesmn.org/post/colletesandrewsiresearch>
