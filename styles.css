@@ -1,1 +1,59 @@
-/* css styles */
+
+body {
+  overflow-x: hidden;
+}
+
+.hero-banner {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('images/Melissodes3.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hero-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* black overlay, 0.5 = 50% transparent */
+}
+
+.hero-banner-text {
+  position: relative;
+  z-index: 1;
+  color: white;
+  padding: 2rem;
+}
+
+.hero-banner-text h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-banner-text p {
+  font-size: 1.25rem;
+}
+
+.hero-description {
+  max-width: 700px;
+  margin: 1rem auto;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.hero-cta {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
