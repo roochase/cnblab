@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "Opportunities",
-    "section": "",
-    "text": "Please reach out if you’re interested in joining the lab!"
-  },
-  {
     "objectID": "opportunities.html#join-the-lab",
     "href": "opportunities.html#join-the-lab",
     "title": "Opportunities",
-    "section": "",
-    "text": "Please reach out if you’re interested in joining the lab!"
+    "section": "Join the Lab",
+    "text": "Join the Lab\nPlease reach out if you’re interested in joining the lab!"
   },
   {
     "objectID": "publications.html",
@@ -70,32 +63,18 @@
     "text": "2018\n\nFrankie, G.W., Pawelek, J.C., Guerrero, S.S.L., Thorp, R.W., Rizzardi, M.A., et al. (2018). Survey of native and honey bees from agricultural Brentwood and their constructed bee gardens in Northern California, 2010–2018. Journal of the Kansas Entomological Society, 91(4), 310–349.\nFrankie, G., Pawelek, J., Chase, M., Witt, S., & Faber, B. (2018). Native pollinators of avocado as affected by constructed pollinator habitat gardens in southern California. XXX International Horticultural Congress IHC2018: VII International…"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Lab news",
-    "section": "",
-    "text": "Minnesota Native Bees covered our work on the nesting and foraging biology of Colletes andrewsi! Read more here: https://www.beesmn.org/post/colletesandrewsiresearch"
-  },
-  {
     "objectID": "news.html#minnesota-native-bees-feature",
     "href": "news.html#minnesota-native-bees-feature",
-    "title": "Lab news",
-    "section": "",
-    "text": "Minnesota Native Bees covered our work on the nesting and foraging biology of Colletes andrewsi! Read more here: https://www.beesmn.org/post/colletesandrewsiresearch"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Entomology — Fall 2026\nEvolutionary Ecology — Spring 2027"
+    "title": "News",
+    "section": "Minnesota Native Bees feature",
+    "text": "Minnesota Native Bees feature\n\nMinnesota Native Bees covered our work on the nesting and foraging biology of Colletes andrewsi! Read more here: https://www.beesmn.org/post/colletesandrewsiresearch"
   },
   {
     "objectID": "teaching.html#courses",
     "href": "teaching.html#courses",
     "title": "Teaching",
-    "section": "",
-    "text": "Entomology — Fall 2026\nEvolutionary Ecology — Spring 2027"
+    "section": "Courses",
+    "text": "Courses\n\nEntomology — Fall 2026\nEvolutionary Ecology — Spring 2027"
   },
   {
     "objectID": "research.html",
