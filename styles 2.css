@@ -1,0 +1,168 @@
+body {
+  background-color: #A8C3BC;
+}
+
+.navbar {
+  background-color: #5C8A28 !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+.navbar .nav-link:hover {
+  color: #f0f0f0 !important;
+}
+.hero-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('images/Melissodes3.jpg');
+  background-size: cover;
+  background-position: center 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  z-index: -1;
+}
+.hero-spacer {
+  height: 100vh;
+}
+.hero-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.hero-banner-text {
+  position: relative;
+  z-index: 1;
+  color: white;
+  padding: 2rem;
+  text-align: left;
+  max-width: 900px;
+}
+.hero-banner-text h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+.hero-banner-text p {
+  font-size: 1.25rem;
+}
+.hero-description {
+  max-width: 700px;
+  margin: 1rem auto;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.hero-cta {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+.hero-logo {
+  width: 400px;
+  flex-shrink: 0;
+}
+.research-section {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+}
+.research-images {
+  flex: 1 1 500px;
+  min-width: 280px;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.research-images p {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 0;
+  flex: 1;
+}
+
+.research-images img.img-fluid {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.people-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.people-text {
+  flex: 1 1 400px;
+  min-width: 280px;
+}
+
+.people-image {
+  flex: 0 0 280px; /* increase from 220px */
+}
+
+.people-image img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  background-color: #A8C3BC;
+  border: 4px solid #C4753F;
+}
+
+.page-banner {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.page-banner-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.page-banner-title {
+  position: relative;
+  z-index: 1;
+  color: white;
+  font-size: 2.5rem;
+  margin: 0;
+}
