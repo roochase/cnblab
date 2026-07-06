@@ -12,6 +12,15 @@ body {
 .navbar .nav-link:hover {
   color: #f0f0f0 !important;
 }
+
+.navbar-nav {
+  align-items: center;
+}
+
+.navbar-nav .nav-link img {
+  vertical-align: middle;
+}
+
 .hero-banner {
   position: fixed;
   top: 0;
@@ -166,4 +175,29 @@ body {
   font-size: 2.5rem;
   margin: 0;
   padding: 1.5rem 2rem;
+}
+
+footer.footer,
+footer.footer p,
+footer.footer a {
+  background-color: #5C8A28 !important;
+  color: white !important;
+}
+
+.nav-footer {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between !important;
+  background-color: #5C8A28 !important;
+  width: 100%;
+  padding: 1.5rem 2rem;
+}
+
+.nav-footer-center {
+  display: none !important;
+}
+
+.nav-footer-right img {
+  height: 80px;
+  width: auto;
 }
