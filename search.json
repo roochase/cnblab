@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "opportunities.html#join-the-lab",
-    "href": "opportunities.html#join-the-lab",
-    "title": "Opportunities",
-    "section": "Join the Lab",
-    "text": "Join the Lab\nPlease reach out if you’re interested in joining the lab!"
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nEntomology — Fall 2026\nEvolutionary Ecology — Spring 2027"
   },
   {
     "objectID": "publications.html",
@@ -63,46 +63,11 @@
     "text": "2018\n2. Frankie, G.W., Pawelek, J.C., Guerrero, S.S.L., Thorp, R.W., Rizzardi, M.A., et al. (2018). Survey of native and honey bees from agricultural Brentwood and their constructed bee gardens in Northern California, 2010–2018. Journal of the Kansas Entomological Society, 91(4), 310–349.\n1. Frankie, G., Pawelek, J., Chase, M., Witt, S., & Faber, B. (2018). Native pollinators of avocado as affected by constructed pollinator habitat gardens in southern California. XXX International Horticultural Congress IHC2018"
   },
   {
-    "objectID": "news.html#minnesota-native-bees-feature",
-    "href": "news.html#minnesota-native-bees-feature",
-    "title": "News",
-    "section": "Minnesota Native Bees feature",
-    "text": "Minnesota Native Bees feature\n\nMinnesota Native Bees covered our work on the nesting and foraging biology of Colletes andrewsi! Read more here: https://www.beesmn.org/post/colletesandrewsiresearch"
-  },
-  {
-    "objectID": "teaching.html#courses",
-    "href": "teaching.html#courses",
-    "title": "Teaching",
-    "section": "Courses",
-    "text": "Courses\n\nEntomology — Fall 2026\nEvolutionary Ecology — Spring 2027"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Understanding the population dynamics of solitary bee species remains a considerable challenge for the field. Basic questions such as “how big is a population” or “how does population size fluctuate from year to year” are unknown yet critical for conservation and conducting research. Within this research, we also emphasize movement ecology. We investigate the biology of dispersal and foraging across populations and communities and explore which factors affect movement and why."
-  },
-  {
-    "objectID": "research.html#bee-population-dynamics",
-    "href": "research.html#bee-population-dynamics",
-    "title": "Research",
-    "section": "",
-    "text": "Understanding the population dynamics of solitary bee species remains a considerable challenge for the field. Basic questions such as “how big is a population” or “how does population size fluctuate from year to year” are unknown yet critical for conservation and conducting research. Within this research, we also emphasize movement ecology. We investigate the biology of dispersal and foraging across populations and communities and explore which factors affect movement and why."
-  },
-  {
-    "objectID": "research.html#solitary-bee-nesting-studies",
-    "href": "research.html#solitary-bee-nesting-studies",
-    "title": "Research",
-    "section": "Solitary bee nesting studies",
-    "text": "Solitary bee nesting studies\n\n\nResearch emphasizes increasing floral resource availability to conserve bees, yet we know so little about nesting requirements of solitary bee species, especially our ground-nesting species that encompass roughly 80% of all bee species. We study all things bee nesting, from nest architecture to phenology and nesting as it relates to dispersal and movement. We are also in the process of getting our environmental chamber up and running in the lab and hope to get some bee nesting action in there. Stay tuned!"
-  },
-  {
-    "objectID": "research.html#effectiveness-of-bee-monitoring",
-    "href": "research.html#effectiveness-of-bee-monitoring",
-    "title": "Research",
-    "section": "Effectiveness of bee monitoring",
-    "text": "Effectiveness of bee monitoring\n\n\nWe are interested in exploring different ways to monitor bee communities. Whether this is using non-lethal methods such as mark-release-recapture, targeted surveys, geospatial data, or methods in-between, we want to determine how we can collect data and reduce lethal take."
+    "objectID": "opportunities.html#join-the-lab",
+    "href": "opportunities.html#join-the-lab",
+    "title": "Opportunities",
+    "section": "Join the Lab",
+    "text": "Join the Lab\nThe Chase Native Bees Lab is recruiting MS students for Fall 2027 to work on projects related to solitary bee population dynamics, nesting biology, or functional morphology, as well as the pollination ecology of rare plant species. Graduate students in the Department of Biology at Villanova University will become part of a community of diverse and engaged students and faculty and have opportunities to interact with the Center for Biodiversity and Ecosystem Stewardship Center.\nStudents will receive an 11-month $1,107 bi-weekly stipend (with additional funding opportunities for the 12th month), a full tuition waiver, and a health care subsidy guaranteed for 2 years with potential for extension.\nInterested applicants should should email Marissa Chase the following: (1) a curriculum vitae; (2) a cover letter describing your research experience, research interests, and career goals; and (3) contact information for 3 references. Please put materials in one PDF file. All materials should be sent by October 10th, 2026. Zoom interviews will promptly follow in late-October. Please reach out with any questions about the program or lab!"
   },
   {
     "objectID": "index.html",
@@ -110,6 +75,13 @@
     "title": "Chase Native Bees Lab",
     "section": "",
     "text": "Welcome to the Chase Native Bees Lab! We study all things related to wild native bees, with the broad aim of teasing apart their intricate biologies and ecologies in ways that guide their conservation, as well as restoration and management. Our work centers on bee population dynamics, movement and dispersal, nesting, and natural history — including pollination biology studies on plants bees love! We also conduct broad community-level work using rigorous statistical and geospatial analysis.\n      \n      Stay tuned as we get going in fall 2026!"
+  },
+  {
+    "objectID": "news.html#minnesota-native-bees-feature",
+    "href": "news.html#minnesota-native-bees-feature",
+    "title": "News",
+    "section": "Minnesota Native Bees feature",
+    "text": "Minnesota Native Bees feature\n\nMinnesota Native Bees covered our work on the nesting and foraging biology of Colletes andrewsi! Read more here: https://www.beesmn.org/post/colletesandrewsiresearch"
   },
   {
     "objectID": "people.html",
@@ -145,5 +117,33 @@
     "title": "People",
     "section": "Staff",
     "text": "Staff\n\n\nRor — Lab manager\nRor is an exceptional herder, with years of experience herding his mom to lab and making her finish writing her papers. His lab responsibilities include: reminding you to go outside and touch (native) grass and finishing that sandwich you were eating. In his free time, Ror loves long, meandering walks through dumpster-filled alleys, incidental seed dispersal while wading through prairies and muck, and creating bizarre sounds both day and night."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Understanding the population dynamics of solitary bee species remains a considerable challenge for the field. Basic questions such as “how big is a population” or “how does population size fluctuate from year to year” are unknown yet critical for conservation and conducting research. Within this research, we also emphasize movement ecology. We investigate the biology of dispersal and foraging across populations and communities and explore which factors affect movement and why."
+  },
+  {
+    "objectID": "research.html#bee-population-dynamics",
+    "href": "research.html#bee-population-dynamics",
+    "title": "Research",
+    "section": "",
+    "text": "Understanding the population dynamics of solitary bee species remains a considerable challenge for the field. Basic questions such as “how big is a population” or “how does population size fluctuate from year to year” are unknown yet critical for conservation and conducting research. Within this research, we also emphasize movement ecology. We investigate the biology of dispersal and foraging across populations and communities and explore which factors affect movement and why."
+  },
+  {
+    "objectID": "research.html#solitary-bee-nesting-studies",
+    "href": "research.html#solitary-bee-nesting-studies",
+    "title": "Research",
+    "section": "Solitary bee nesting studies",
+    "text": "Solitary bee nesting studies\n\n\nResearch emphasizes increasing floral resource availability to conserve bees, yet we know so little about nesting requirements of solitary bee species, especially our ground-nesting species that encompass roughly 80% of all bee species. We study all things bee nesting, from nest architecture to phenology and nesting as it relates to dispersal and movement. We are also in the process of getting our environmental chamber up and running in the lab and hope to get some bee nesting action in there. Stay tuned!"
+  },
+  {
+    "objectID": "research.html#effectiveness-of-bee-monitoring",
+    "href": "research.html#effectiveness-of-bee-monitoring",
+    "title": "Research",
+    "section": "Effectiveness of bee monitoring",
+    "text": "Effectiveness of bee monitoring\n\n\nWe are interested in exploring different ways to monitor bee communities. Whether this is using non-lethal methods such as mark-release-recapture, targeted surveys, geospatial data, or methods in-between, we want to determine how we can collect data and reduce lethal take."
   }
 ]
