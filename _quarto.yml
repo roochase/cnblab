@@ -1,14 +1,33 @@
 project:
   type: website
-
+  resources:
+    - images/
 website:
-  title: "cnb_lab_website"
+  title: "Chase Native Bees Lab"
+  favicon: images/logo.png
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: "![](images/logo.png){height=40px}"
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: people.qmd
+        text: People
+      - href: news.qmd
+        text: News
+      - href: opportunities.qmd
+        text: Opportunities
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    left: |
+      Marissa Chase, PhD<br>
+      Chase Native Bees Lab<br>
+      marissa.chase@villanova.edu
+    right: |
+      ![](images/logo.png){height=50px}
 format:
   html:
     theme:
@@ -16,6 +35,4 @@ format:
       - brand
     css: styles.css
     toc: true
-
 editor: visual
-

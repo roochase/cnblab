@@ -1,7 +1,13 @@
 ---
-title: Opportunities
-format: html
+title: ""
 ---
+
+```{=html}
+<div class="page-banner" style="background-image: url('images/Hylaeus.JPG');">
+  <div class="page-banner-overlay"></div>
+  <h1 class="page-banner-title">Opportunities</h1>
+</div>
+```
 
 ## Join the Lab
 
